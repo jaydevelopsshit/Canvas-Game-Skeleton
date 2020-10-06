@@ -5,6 +5,7 @@ A template from which you can easily use the HTML5 canvas with.
 
 HTML <br>
 `<canvas id="canvas"></canvas>` <br>
+<br>
 JS
 ```
 const cvs = document.getElementById("canvas");
