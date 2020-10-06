@@ -3,8 +3,8 @@ A template from which you can easily use the HTML5 canvas with.
 
 # Example Usage
 
-HTML
-`<canvas id="canvas"></canvas>`
+HTML <br>
+`<canvas id="canvas"></canvas>` <br>
 JS
 ```
 const cvs = document.getElementById("canvas");
